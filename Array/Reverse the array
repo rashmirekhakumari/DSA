@@ -1,3 +1,8 @@
+1) Initialize arr[i] and arr[size-1-i]
+2) Swap arr[i] with arr[size-1-i] 
+3) Recursively call reverse for rest of the array.
+
+
 /* package codechef; // don't place package name! */
 
 import java.util.*;
